@@ -13,6 +13,10 @@ After extracting or downloading the files
 create a .streamlit folder in your root directory 
 ![demo3](demo3.png)
 
+### Install the required libraries
+![demo6](demo6.png)
+
+
 ### Add the Files config.toml and secrets.toml inside the .streamlit folder
 
 ![demo4](demo4.png)
