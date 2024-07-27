@@ -11,5 +11,9 @@ create a .streamlit folder in your directory
 
 Add the Files config.toml and secrets.toml inside the .streamlit folder
 
+![demo4](demo4.png)
+
 Add API KEY in your secrets.toml file
+
+![demo5](demo5.png)
 
