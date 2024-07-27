@@ -9,7 +9,8 @@ Compare all LLM's via GROQ api in a single page
 
 # Build Guide
 
-create a .streamlit folder in your directory 
+After extracting or downloading the files
+create a .streamlit folder in your root directory 
 ![demo3](demo3.png)
 
 ### Add the Files config.toml and secrets.toml inside the .streamlit folder
