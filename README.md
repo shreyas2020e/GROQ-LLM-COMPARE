@@ -9,11 +9,11 @@ Compare all LLM's via GROQ api in a single page
 create a .streamlit folder in your directory 
 ![demo3](demo3.png)
 
-Add the Files config.toml and secrets.toml inside the .streamlit folder
+### Add the Files config.toml and secrets.toml inside the .streamlit folder
 
 ![demo4](demo4.png)
 
-Add API KEY in your secrets.toml file
+### Add API KEY in your secrets.toml file
 
 ![demo5](demo5.png)
 
